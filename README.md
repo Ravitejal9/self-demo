@@ -1,4 +1,4 @@
 # self-demo
 This is my first Git Repository.
 <br>
-Author - Ravi Teja
+Author - Lenka Ravi Teja
